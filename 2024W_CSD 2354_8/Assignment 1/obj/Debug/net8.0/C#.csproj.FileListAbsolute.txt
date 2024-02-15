@@ -1,0 +1,42 @@
+A:\C#\bin\Debug\net8.0\C#.exe
+A:\C#\bin\Debug\net8.0\C#.deps.json
+A:\C#\bin\Debug\net8.0\C#.runtimeconfig.json
+A:\C#\bin\Debug\net8.0\C#.dll
+A:\C#\bin\Debug\net8.0\C#.pdb
+A:\C#\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
+A:\C#\obj\Debug\net8.0\C#.AssemblyInfo.cs
+A:\C#\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
+A:\C#\obj\Debug\net8.0\C#.dll
+A:\C#\obj\Debug\net8.0\refint\C#.dll
+A:\C#\obj\Debug\net8.0\C#.pdb
+A:\C#\obj\Debug\net8.0\C#.genruntimeconfig.cache
+A:\C#\obj\Debug\net8.0\ref\C#.dll
+A:\2024W_CSD 2354_8\bin\Debug\net8.0\C#.exe
+A:\2024W_CSD 2354_8\bin\Debug\net8.0\C#.deps.json
+A:\2024W_CSD 2354_8\bin\Debug\net8.0\C#.runtimeconfig.json
+A:\2024W_CSD 2354_8\bin\Debug\net8.0\C#.dll
+A:\2024W_CSD 2354_8\bin\Debug\net8.0\C#.pdb
+A:\2024W_CSD 2354_8\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+A:\2024W_CSD 2354_8\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
+A:\2024W_CSD 2354_8\obj\Debug\net8.0\C#.AssemblyInfo.cs
+A:\2024W_CSD 2354_8\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
+A:\2024W_CSD 2354_8\obj\Debug\net8.0\C#.dll
+A:\2024W_CSD 2354_8\obj\Debug\net8.0\refint\C#.dll
+A:\2024W_CSD 2354_8\obj\Debug\net8.0\C#.pdb
+A:\2024W_CSD 2354_8\obj\Debug\net8.0\C#.genruntimeconfig.cache
+A:\2024W_CSD 2354_8\obj\Debug\net8.0\ref\C#.dll
+A:\2024W_CSD 2354_8\Assignment 1\bin\Debug\net8.0\C#.exe
+A:\2024W_CSD 2354_8\Assignment 1\bin\Debug\net8.0\C#.deps.json
+A:\2024W_CSD 2354_8\Assignment 1\bin\Debug\net8.0\C#.runtimeconfig.json
+A:\2024W_CSD 2354_8\Assignment 1\bin\Debug\net8.0\C#.dll
+A:\2024W_CSD 2354_8\Assignment 1\bin\Debug\net8.0\C#.pdb
+A:\2024W_CSD 2354_8\Assignment 1\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+A:\2024W_CSD 2354_8\Assignment 1\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
+A:\2024W_CSD 2354_8\Assignment 1\obj\Debug\net8.0\C#.AssemblyInfo.cs
+A:\2024W_CSD 2354_8\Assignment 1\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
+A:\2024W_CSD 2354_8\Assignment 1\obj\Debug\net8.0\C#.dll
+A:\2024W_CSD 2354_8\Assignment 1\obj\Debug\net8.0\refint\C#.dll
+A:\2024W_CSD 2354_8\Assignment 1\obj\Debug\net8.0\C#.pdb
+A:\2024W_CSD 2354_8\Assignment 1\obj\Debug\net8.0\C#.genruntimeconfig.cache
+A:\2024W_CSD 2354_8\Assignment 1\obj\Debug\net8.0\ref\C#.dll
