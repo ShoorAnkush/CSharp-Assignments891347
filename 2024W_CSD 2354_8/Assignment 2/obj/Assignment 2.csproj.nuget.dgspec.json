@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\2024W_CSD 2354_8\\C#.csproj": {}
+    "A:\\2024W_CSD 2354_8\\Assignment 2\\Assignment 2.csproj": {}
   },
   "projects": {
-    "A:\\2024W_CSD 2354_8\\C#.csproj": {
+    "A:\\2024W_CSD 2354_8\\Assignment 2\\Assignment 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\2024W_CSD 2354_8\\C#.csproj",
-        "projectName": "C#",
-        "projectPath": "A:\\2024W_CSD 2354_8\\C#.csproj",
+        "projectUniqueName": "A:\\2024W_CSD 2354_8\\Assignment 2\\Assignment 2.csproj",
+        "projectName": "Assignment 2",
+        "projectPath": "A:\\2024W_CSD 2354_8\\Assignment 2\\Assignment 2.csproj",
         "packagesPath": "C:\\Users\\A_sho\\.nuget\\packages\\",
-        "outputPath": "A:\\2024W_CSD 2354_8\\obj\\",
+        "outputPath": "A:\\2024W_CSD 2354_8\\Assignment 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A_sho\\AppData\\Roaming\\NuGet\\NuGet.Config"
